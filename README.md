@@ -76,4 +76,4 @@ Capoeira 🥋 | Swimming 🏊 | Music 🎶 | 3D Printing
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/) | [Portfolio/Website](https://) | [Email](mailto:zadiemoon.println@gmail.com)
+[LinkedIn](https://www.linkedin.com/) | [Email](mailto:zadiemoon.println@gmail.com)
