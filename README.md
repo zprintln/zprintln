@@ -60,7 +60,7 @@
 - **AI Agentforce @ Evenness** – Built accessible AI interfaces, improved adoption by 30%, accelerated time-to-market by 20%.  
 - **Makerspace Technician** – Ran 25+ workshops on 3D printing, CNC, and digital design; improved student project efficiency by 30%.  
 - **GDG Founder** – Led 25 organizers to host hackathons and workshops for 4,000+ students.  
-- **Data Analytics / UX Research** – Built dashboards and prototypes improving retention and engagement by 25-28%.  
+- **Data Analytics / UX Research @ OneDegree** – Built dashboards and prototypes improving retention and engagement by 25-28%.  
 
 ---
 ## 🌊 Outside of Coding
