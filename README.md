@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zadie Moon
 
-💻 MSCS Student @ Northeastern University
+💻 MSCS Student @ Northeastern University 
 🌱 Building **accessible, user-centered technology** in AI/ML, healthcare, and emerging tech  
 
 ---
