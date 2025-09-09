@@ -54,21 +54,14 @@
   <img src="https://img.shields.io/badge/Analytics-FFA500?style=for-the-badge"/>
 </div>
 
----
-
-## 🚀 Featured Projects
-- **AI Agentforce @ Evenness** – Built accessible AI interfaces, improved adoption by 30%, accelerated time-to-market by 20%.  
-- **Makerspace Technician** – Ran 25+ workshops on 3D printing, CNC, and digital design; improved student project efficiency by 30%.  
-- **GDG Founder** – Led 25 organizers to host hackathons and workshops for 4,000+ students.  
-- **Data Analytics / UX Research @ OneDegree** – Built dashboards and prototypes improving retention and engagement by 25-28%.
 
 ---
 ## 🚀 Featured Projects & Experience
 
-- **Product Manager, AI Agentforce @ Evenness** – Designed accessible AI-driven interfaces and demos, improving adoption by **30%**. Developed roadmap and GTM strategy for autonomous AI agents, accelerating time-to-market by **20%**. Collaborated with engineering, design, and QA teams to deliver features **2 weeks ahead of schedule**.
+- **Product Manager, AI Agentforce @ Evenness** – Designed accessible AI-driven interfaces and demos, improving adoption by **30%**. Developed roadmap and GTM strategy for autonomous AI agents, accelerating time-to-market by **20%**. 
 
-- **Makerspace Technician @ Northeastern University** – Ran 25+ workshops on 3D printing, CNC, laser cutting, and digital design tools. Supervised daily operations, supporting 200+ students across engineering and design projects. Developed instructional materials, improving project completion efficiency by **30%**.
-
+- **Makerspace Technician @ Northeastern University** – Ran 25+ workshops on 3D printing, CNC, laser cutting, and digital design tools. Supervised daily operations, supporting 200+ students across engineering and design projects.
+  
 - **Founder & Organizer, Google Developer Group @ Northeastern University** – Led 25 organizers to deliver hackathons, workshops, and conferences for **4,000+ students**. Moderated 5 industry panels and built partnerships with tech companies, increasing sponsorship funding and participant reach by **35%**.
 
 - **AI Graduate Researcher @ Khoury College of Computer Sciences** – Built RAG pipelines, fine-tuned multimodal models, and prototyped agentic workflows for clinical training simulations. Designed evaluation frameworks emphasizing bias detection and usability, contributing to conference presentations and ongoing healthcare AI prototypes.
