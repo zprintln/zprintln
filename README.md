@@ -27,7 +27,6 @@
 
 ### AI / Machine Learning
 <div>
-  <img src="https://img.shields.io/badge/LLMs-RAG, Fine-tuning, Multi-Agent-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PyTorch-F05032?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP, CV, Speech, RL-lightgrey?style=for-the-badge"/>
