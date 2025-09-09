@@ -2,7 +2,6 @@
 
 💻 MSCS Student @ Northeastern University | AI, HCI, Product Focus  
 🌱 Building **accessible, user-centered technology** in AI/ML, healthcare, and emerging tech  
-🎨 Outside of coding: capoeira, swimming, and music 🎶
 
 ---
 
@@ -64,7 +63,6 @@
 - **Data Analytics / UX Research** – Built dashboards and prototypes improving retention and engagement by 25-28%.  
 
 ---
-
 ## 🌊 Outside of Coding
 Capoeira 🥋 | Swimming 🏊 | Music 🎶 | 3D Printing
 
