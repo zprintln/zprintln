@@ -1,7 +1,5 @@
 # Hi, I'm Zadie Moon
 
-💻 MSCS Student @ Northeastern University 
-
 ### [Portfolio](https://zprintln.github.io/me/)
 
 ---
