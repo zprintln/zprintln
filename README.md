@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zadie Moon
+# Hi, I'm Zadie Moon
 
 💻 MSCS Student @ Northeastern University 
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Skills & Expertise
+## Skills & Expertise
 
 ### Languages & Development
 <div>
@@ -57,5 +57,5 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 [LinkedIn](https://www.linkedin.com/) | [Email](mailto:zadiemoon.println@gmail.com)
