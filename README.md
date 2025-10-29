@@ -56,24 +56,6 @@
 
 
 ---
-## 🚀 Featured Projects & Experience
-
-- **Product Manager, AI Agentforce @ Evenness** – Designed accessible AI-driven interfaces and demos, improving adoption by **30%**. Developed roadmap and GTM strategy for autonomous AI agents, accelerating time-to-market by **20%**. 
-
-- **Makerspace Technician @ Northeastern University** – Ran 25+ workshops on 3D printing, CNC, laser cutting, and digital design tools. Supervised daily operations, supporting 200+ students across engineering and design projects.
-  
-- **Founder & Organizer, Google Developer Group @ Northeastern University** – Led 25 organizers to deliver hackathons, workshops, and conferences for **4,000+ students**. Moderated 5 industry panels and built partnerships with tech companies, increasing sponsorship funding and participant reach by **35%**.
-
-- **AI Graduate Researcher @ Khoury College of Computer Sciences** – Built RAG pipelines, fine-tuned multimodal models, and prototyped agentic workflows for clinical training simulations. Designed evaluation frameworks emphasizing bias detection and usability, contributing to conference presentations and ongoing healthcare AI prototypes.
-
-- **Data Analytics / UX Research Intern @ OneDegree** – Queried and analyzed large datasets, reducing abandoned sessions by **20%**. Built dashboards to guide product decisions (**28% increase in user retention**) and created Figma prototypes improving search flows (**25% boost in engagement**). Conducted 38+ user research studies, reducing task completion time by **22%**.
-
-
----
-## 🌊 Outside of Coding
-Capoeira 🥋 | Swimming 🏊 | Music 🎶 | 3D Printing
-
----
 
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/) | [Email](mailto:zadiemoon.println@gmail.com)
