@@ -2,7 +2,7 @@
 
 💻 MSCS Student @ Northeastern University 
 
-🌱 Building **accessible, user-centered technology** in AI/ML, healthcare, and emerging tech  
+### [Portfolio](https://zprintln.github.io/me/)
 
 ---
 
